@@ -1,0 +1,6 @@
+C:\Users\Armond\Desktop\Eleven Fifty Projects\GoldBadge\Komodo Insurance Developer Team Management Application\Komodo.POCOs\bin\Debug\Komodo.POCOs.dll
+C:\Users\Armond\Desktop\Eleven Fifty Projects\GoldBadge\Komodo Insurance Developer Team Management Application\Komodo.POCOs\bin\Debug\Komodo.POCOs.pdb
+C:\Users\Armond\Desktop\Eleven Fifty Projects\GoldBadge\Komodo Insurance Developer Team Management Application\Komodo.POCOs\obj\Debug\Komodo.POCOs.csproj.AssemblyReference.cache
+C:\Users\Armond\Desktop\Eleven Fifty Projects\GoldBadge\Komodo Insurance Developer Team Management Application\Komodo.POCOs\obj\Debug\Komodo.POCOs.csproj.CoreCompileInputs.cache
+C:\Users\Armond\Desktop\Eleven Fifty Projects\GoldBadge\Komodo Insurance Developer Team Management Application\Komodo.POCOs\obj\Debug\Komodo.POCOs.dll
+C:\Users\Armond\Desktop\Eleven Fifty Projects\GoldBadge\Komodo Insurance Developer Team Management Application\Komodo.POCOs\obj\Debug\Komodo.POCOs.pdb

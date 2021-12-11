@@ -1,0 +1,2 @@
+C:\Users\Armond\Desktop\Eleven Fifty Projects\GoldBadge\Komodo Insurance Developer Team Management Application\Komodo.UI\obj\Debug\Komodo.UI.csproj.AssemblyReference.cache
+C:\Users\Armond\Desktop\Eleven Fifty Projects\GoldBadge\Komodo Insurance Developer Team Management Application\Komodo.UI\obj\Debug\Komodo.UI.csproj.CoreCompileInputs.cache
